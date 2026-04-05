@@ -9,8 +9,8 @@ Open-source water quality monitoring infrastructure.
 |Repo                                                        |Description                                                                             |
 |------------------------------------------------------------|----------------------------------------------------------------------------------------|
 |[marketplace](https://github.com/BlueSignal-XYZ/marketplace)|WaterQuality.Trading — deregulated water credit marketplace (React 18 + Vite + Firebase)|
-|wqm-1-firmware                                              |WQM-1 sensor firmware (Pi Zero 2W, LoRaWAN, SQLite WAL)                                 |
-|[bluesignal.xyz](https://bluesignal.xyz)                                              |Hardware product site                                                                   |
+|[wqm-1-firmware](https://github.com/BlueSignal-XYZ/wqm-1)|WQM-1 sensor firmware (Pi Zero 2W, LoRaWAN, SQLite WAL)                                 |
+|[bluesignal.xyz](https://bluesignal.xyz)|Hardware product site                                                                   |
 |.github                                                     |Org defaults, templates, and CI workflows                                               |
 
 ## Links
